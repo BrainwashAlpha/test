@@ -1,4 +1,7 @@
-2010-04-05  Karl Berry  <karl@gnu.org>
+2024-08-24  Arnav Bhanwala <arnavbhanwala@gmail.com>
+	* learning to use git 
+
+2010-4-05  Karl Berry  <karl@gnu.org>
 
 	* build-aux/srclist.txt: new file, input to (Gnulib's) srclist-update.
 
